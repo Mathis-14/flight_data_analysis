@@ -74,3 +74,4 @@ if len(categorical_cols) > 0:
         plt.close()
 
 print("\nEDA completed! Check the generated plots for visual insights.")
+print("ok")
